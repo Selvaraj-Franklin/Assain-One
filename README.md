@@ -4,7 +4,7 @@
 
 SUM= 1+1
 
-Print SUM
+Print(SUM)
 
 <b> Franklin John
   Professor 
