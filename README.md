@@ -14,7 +14,7 @@ Print(SUM)
   
   ### My next cell will add two variables and give result 
   
-  10+10
+ SUM (10+10)
   
   *Bullete Test
   
