@@ -14,7 +14,8 @@ Print(SUM)
   
   ### My next cell will add two variables and give result 
   
- SUM (10+10)
+num1 = int(Input(10))
+Print(num1)
   
   *Bullete Test
   
