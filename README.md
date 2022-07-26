@@ -2,7 +2,9 @@
 
 # My Jupyter Notebook on IBM Watson Studio
 
-1+1
+SUM= 1+1
+
+Print SUM
 
 <b> Franklin John
   Professor 
